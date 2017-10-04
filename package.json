@@ -1,6 +1,6 @@
 {
   "name": "appkit-common-ext",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Appkit Common Extensions",
   "engines": {
     "appkit": "^1.0.0"
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "appkit-news-ext": "git://github.com/appkit-extensions/appkit-news-ext.git",
-    "appkit-documents-ext": "git://github.com/appkit-extensions/appkit-documents-ext.git"
+    "appkit-documents-ext": "git://github.com/appkit-extensions/appkit-documents-ext.git",
+    "appkit-photos-ext": "git://github.com/appkit-extensions/appkit-photos-ext.git"
   }
 }
