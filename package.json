@@ -1,6 +1,6 @@
 {
   "name": "appkit-common-ext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Appkit Common Extensions",
   "engines": {
     "appkit": "^1.0.0"
